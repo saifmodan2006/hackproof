@@ -7,7 +7,7 @@ text, JSON, or a standalone HTML report. Optional SHA-256 receipts detect change
 local evidence artifacts. No accounts, API keys, telemetry, or dependencies.
 
 Built with AI coding assistance during MLH Global Hack Week: Builders Week,
-November 6–12, 2026, for the accompanying MLH × DEV writing challenge preparation.
+November 6–12, 2026. [Read the MLH × DEV challenge write-up](https://dev.to/saif_modan/hackproof-catch-missing-pieces-in-your-hackathon-write-up-cn1).
 Global Hack Week check-in was visible in the signed-in event account. Acceptance
 of Global Hack Week projects for the writing competition has not been confirmed
 by the organizers. This project does not certify eligibility.
