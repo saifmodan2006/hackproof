@@ -1,0 +1,23 @@
+﻿HackProof: NEEDS WORK
+[PASS] title: A nonempty title is required.
+[PASS] tags: Include mlhacks and use at most four DEV tags.
+[FAIL] section:What I Built: What I Built needs content beyond comments or fenced examples.
+[PASS] section:Demo: Demo needs content beyond comments or fenced examples.
+[PASS] section:Partner Technologies: Partner Technologies needs content beyond comments or fenced examples.
+[PASS] section:Hackathon Experience: Hackathon Experience needs content beyond comments or fenced examples.
+[FAIL] demo-link: Demo needs a real URL; reachability is not checked.
+[FAIL] placeholders: Unfinished markers: [Project name], TODO, [Insert event name]
+
+Structural checks and byte-integrity receipts only. No eligibility, attendance, authorship, factual claim, or URL availability verification.
+HackProof: PASS
+[PASS] title: A nonempty title is required.
+[PASS] tags: Include mlhacks and use at most four DEV tags.
+[PASS] section:What I Built: What I Built needs content beyond comments or fenced examples.
+[PASS] section:Demo: Demo needs content beyond comments or fenced examples.
+[PASS] section:Partner Technologies: Partner Technologies needs content beyond comments or fenced examples.
+[PASS] section:Hackathon Experience: Hackathon Experience needs content beyond comments or fenced examples.
+[PASS] demo-link: Demo needs a real URL; reachability is not checked.
+[PASS] placeholders: No recognized unfinished markers in prose.
+[PASS] evidence:1: Recorded local unittest run: eight tests — validation.txt
+
+Structural checks and byte-integrity receipts only. No eligibility, attendance, authorship, factual claim, or URL availability verification.

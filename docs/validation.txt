@@ -1,0 +1,13 @@
+test_complete_entry_and_tampered_evidence (test_cli.SubmissionJourney.test_complete_entry_and_tampered_evidence) ... ok
+test_fenced_examples_do_not_count_as_prose (test_cli.SubmissionJourney.test_fenced_examples_do_not_count_as_prose) ... ok
+test_html_escapes_content (test_cli.SubmissionJourney.test_html_escapes_content) ... ok
+test_incomplete_entry_fails_with_actionable_findings (test_cli.SubmissionJourney.test_incomplete_entry_fails_with_actionable_findings) ... ok
+test_malformed_evidence_is_an_input_error (test_cli.SubmissionJourney.test_malformed_evidence_is_an_input_error) ... ok
+test_missing_input_returns_two (test_cli.SubmissionJourney.test_missing_input_returns_two) ... ok
+test_outputs_do_not_overwrite_files (test_cli.SubmissionJourney.test_outputs_do_not_overwrite_files) ... ok
+test_outside_evidence_is_rejected_even_with_correct_hash (test_cli.SubmissionJourney.test_outside_evidence_is_rejected_even_with_correct_hash) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.985s
+
+OK

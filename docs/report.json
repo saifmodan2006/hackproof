@@ -1,0 +1,52 @@
+{
+  "file": "complete.md",
+  "passed": true,
+  "findings": [
+    {
+      "check": "title",
+      "status": "pass",
+      "detail": "A nonempty title is required."
+    },
+    {
+      "check": "tags",
+      "status": "pass",
+      "detail": "Include mlhacks and use at most four DEV tags."
+    },
+    {
+      "check": "section:What I Built",
+      "status": "pass",
+      "detail": "What I Built needs content beyond comments or fenced examples."
+    },
+    {
+      "check": "section:Demo",
+      "status": "pass",
+      "detail": "Demo needs content beyond comments or fenced examples."
+    },
+    {
+      "check": "section:Partner Technologies",
+      "status": "pass",
+      "detail": "Partner Technologies needs content beyond comments or fenced examples."
+    },
+    {
+      "check": "section:Hackathon Experience",
+      "status": "pass",
+      "detail": "Hackathon Experience needs content beyond comments or fenced examples."
+    },
+    {
+      "check": "demo-link",
+      "status": "pass",
+      "detail": "Demo needs a real URL; reachability is not checked."
+    },
+    {
+      "check": "placeholders",
+      "status": "pass",
+      "detail": "No recognized unfinished markers in prose."
+    },
+    {
+      "check": "evidence:1",
+      "status": "pass",
+      "detail": "Recorded local unittest run: eight tests — validation.txt"
+    }
+  ],
+  "limits": "Structural checks and byte-integrity receipts only. No eligibility, attendance, authorship, factual claim, or URL availability verification."
+}
